@@ -1,2 +1,2 @@
 this is sample file
-few contents added
+removed login functionality
